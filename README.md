@@ -13,36 +13,6 @@ Certifications
   <img src="./newlatest-2024-removebg-preview (5).png" alt="Demoo Image" />
 </p>
 
-Oracle Cloud Infrastructure Architect Professional
-
-Oracle Cloud Infrastructure Security Professional
-
-Microsoft Azure Solutions Architect Expert
-
-Microsoft Cybersecurity Architect Expert
-
-Microsoft Azure Network Engineer
-
-Microsoft Azure Security Engineer
-
-Microsoft Azure Virtual Desktop Specialty
-
-Microsoft Azure SAP Workloads Specialty
-
-Microsoft Azure Developer Associate
-
-Microsoft Certified Solutions Expert
-
-Certified Ethical Hacker
-
-VMware Certified Professional 
-
-Cisco Certified Network Associate
-
-Veeam Public Cloud
-
-ITIL® 4 
-
 
 📫 How to reach me
 ----------------
