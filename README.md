@@ -18,7 +18,7 @@ Certifications
 ----------------
 Email: marcofekry@hotmail.com
 
-LinkedIn: [Marco Fekry LinkedIn Profile](https://1drv.ms/v/s!Agmd1-sdw98kkr9e3COJsfF5QYvxLQ?e=vOWIaf](https://www.linkedin.com/in/marco-fekry-081058111/)
+LinkedIn: [Marco Fekry LinkedIn Profile](https://www.linkedin.com/in/marco-fekry-081058111/)
 
 - 💬 Ask me about ...
 
