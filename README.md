@@ -1,8 +1,6 @@
-## Hi there 👋
-
 Overview
 ----------
-👋 Welcome to my GitHub profile!
+ Hi there 👋 , Welcome to my GitHub profile! 😄
 
 I am a seasoned Cloud Service Delivery Manager with Over sixteen years of experience in Information Technology and a proven track record in leading and managing cloud initiatives across Azure, AWS, and Oracle Cloud Infrastructure (OCI). My expertise spans technical and managerial domains, enabling me to deliver high-quality cloud solutions that drive business success.
 
