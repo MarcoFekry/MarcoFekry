@@ -19,6 +19,13 @@ RoboMate Cloud Automation
   <img src="./RoboMate-Logo.png" alt="Demo Image" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/MarcoFekry/RoboMate-CloudAutomation/blob/main/Presentations/Providers-Azure.png" alt="Image 1" width="150" style="margin: 10px;">
+  <img src="https://github.com/MarcoFekry/RoboMate-CloudAutomation/blob/main/Presentations/Providers-OCI.png" alt="Image 2" width="150" style="margin: 10px;">
+  <img src="https://github.com/MarcoFekry/RoboMate-CloudAutomation/blob/main/Presentations/Providers-AWS.png" alt="Image 3" width="150" style="margin: 10px;">
+  <img src="https://github.com/MarcoFekry/RoboMate-CloudAutomation/blob/main/Presentations/Providers-O365.png" alt="Image 4" width="150" style="margin: 10px;">
+</p>
+
 I am the RoboMate Cloud Automation developer and owner
 
 RoboMate Cloud Automation is a project created to analyze and manage cloud cost, usage, security, and governance all in one place. With RoboMate Cloud Automation you can also:
