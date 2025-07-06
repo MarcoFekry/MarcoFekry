@@ -2,7 +2,7 @@ Overview
 ----------
  Hi there 👋 , Welcome to my GitHub profile! 😄
 
-I am a seasoned Multi-Cloud Service Delivery Manager and Technical Expert with over sixteen years of experience in Information Technology and a proven track record in leading and managing cloud initiatives across Azure, AWS, and OCI. My expertise spans technical and managerial domains, enabling me to deliver high-quality cloud solutions that drive business success.
+I am a seasoned Multi-Cloud Service Delivery Manager and Technical Expert with over seventeen years of experience in Information Technology and a proven track record in leading and managing cloud initiatives across Azure, AWS, and OCI. My expertise spans technical and managerial domains, enabling me to deliver high-quality cloud solutions that drive business success.
 
 
 Certifications
